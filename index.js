@@ -1,4 +1,4 @@
-let quantVitorias = 90
+let quantVitorias = 102
 let elo
 
 function seuElo() {
